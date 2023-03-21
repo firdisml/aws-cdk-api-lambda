@@ -27,7 +27,7 @@ export class CdkStack extends cdk.Stack {
       },
     });
 
-     // 👇 create an Output for the API URL
+     // 👇 create an Output for the API URLLL
     new cdk.CfnOutput(this, 'apiUrl', {value: api.url});
 
     // 👇 define GET todos function
