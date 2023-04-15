@@ -6,6 +6,8 @@
     ],
     "exclude": [
       "README.md",
+      "README.md",
+      "README.md",
       "cdk*.json",
       "**/*.d.ts",
       "**/*.js",
