@@ -4,6 +4,9 @@ async function main(event:any) {
         {todoId: 1, text: 'walk the dogs 🐕'},
         {todoId: 2, text: 'cook dinners 🥗'},
         {todoId: 2, text: 'cook dinners 🥗'},
+        {todoId: 2, text: 'cook dinners 🥗'},
+        {todoId: 2, text: 'cook dinners 🥗'},
+        {todoId: 2, text: 'cook dinners 🥗'},
       ]),
       statusCode: 200,
     };
