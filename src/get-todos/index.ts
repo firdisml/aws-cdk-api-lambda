@@ -1,8 +1,8 @@
 async function main(event:any) {
     return {
       body: JSON.stringify([
-        {todoId: 1, text: 'walk the dog 🐕'},
-        {todoId: 2, text: 'cook dinner 🥗'},
+        {todoId: 1, text: 'walk the dogs 🐕'},
+        {todoId: 2, text: 'cook dinners 🥗'},
       ]),
       statusCode: 200,
     };
